@@ -1,5 +1,5 @@
 package com.iteration.model;
 
-public class Rental {
+public class Rental extends BaseModel {
 
 }

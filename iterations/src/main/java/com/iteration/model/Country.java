@@ -1,5 +1,5 @@
 package com.iteration.model;
 
-public class Country {
+public class Country extends BaseModel {
 
 }

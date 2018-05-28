@@ -1,5 +1,5 @@
 package com.iteration.model;
 
-public class FilmActor {
+public class FilmActor extends BaseModel {
 
 }
