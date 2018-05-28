@@ -1,5 +1,5 @@
 package com.iteration.model;
 
-public class Payment {
+public class Payment extends BaseModel {
 
 }

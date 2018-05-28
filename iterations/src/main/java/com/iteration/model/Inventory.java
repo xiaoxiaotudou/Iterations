@@ -1,5 +1,5 @@
 package com.iteration.model;
 
-public class Inventory {
+public class Inventory extends BaseModel {
 
 }

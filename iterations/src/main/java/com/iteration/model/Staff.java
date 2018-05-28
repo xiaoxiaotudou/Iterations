@@ -1,5 +1,5 @@
 package com.iteration.model;
 
-public class Staff {
+public class Staff extends BaseModel {
 
 }

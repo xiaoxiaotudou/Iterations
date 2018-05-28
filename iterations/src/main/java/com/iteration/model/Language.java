@@ -1,5 +1,5 @@
 package com.iteration.model;
 
-public class Language {
+public class Language extends BaseModel {
 
 }
