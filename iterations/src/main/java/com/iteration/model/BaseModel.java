@@ -1,16 +1,16 @@
 package com.iteration.model;
 
-import java.util.Date;
+import java.sql.Timestamp;
 
 public class BaseModel {
 
-    private Date lastUpdate;
+    private Timestamp lastUpdate;
 
-    public Date getLastUpdate() {
+    public Timestamp getLastUpdate() {
         return lastUpdate;
     }
 
-    public void setLastUpdate(Date lastUpdate) {
+    public void setLastUpdate(Timestamp lastUpdate) {
         this.lastUpdate = lastUpdate;
     }
 }
